@@ -1,0 +1,7 @@
+node_modules/
+.grokcraft/
+*.log
+*.pid
+token
+config.json
+.env
